@@ -67,6 +67,7 @@ sidebar_label: Tools
 - [Facebook Down](https://www.fbdown.net/) - Facebook Video Downloader.
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
+- [Instagram video downloader](https://igstoriesig.com/) - Instagram video downloader.
 - [PornHub Video Downloader](https://phdownloader.com/) - Download PornHub videos in best quality available.
 - [YMP4](https://ymp4.download/) - Download videos to mp4 & mp3 files, including from places like e.g. Youtube,Crunchroll.
 - [mp3pro.xyz](https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
